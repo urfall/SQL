@@ -142,6 +142,8 @@ TRUNCATE TABLE 테이블명;
 ```
 
 
+### 😶
+
 - [x] **`DEFAULT`**
 - 값이 생략될 때 자동으로 부여되는 값
 - INSERT에서 NULL 직접 입력 시, DEFAULT값 대신 NULL 입력
