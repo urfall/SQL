@@ -97,12 +97,3 @@ REVOKE SELECT ON EMP FROM ROLE_SET;
    - 직접 회수 가능
    - 중간관리자에게 부여된 권한을 회수해도 제 3자에게 부여된 권한 회수 X 
 
-
-
-
-
-
-
-
-
-
