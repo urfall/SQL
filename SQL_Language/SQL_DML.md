@@ -1,17 +1,5 @@
 - [X] 홍쌤의 데이터랩 SQLD_NEW 강의를 참고한 정리
 
-## SQL 기본문법
-
-구분|종류
-:---:|:---:
-**DDL** | CREATE, ALTER, DROP, TRUNCATE
-**DML** | INSERT, DELETE, UPDATE, MERGE
-**DCL** | GRANT, REVOKE
-**TCL** | COMMIT, ROLLBACK
-**DQL** | SELECT
-
-
-
 ## DML
 
 - [x] 종류 : INSERT, UPDATE, DELETE, MERGE
