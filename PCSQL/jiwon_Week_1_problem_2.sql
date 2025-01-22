@@ -18,6 +18,7 @@ GEN2 AS (
                                        WHERE G.ID = D.PARENT_ID) CHILD_COUNT
     FROM GEN G
 )
+
 SELECT COUNT(*) COUNT, GENERATION 
 FROM GEN2
 WHERE CHILD_COUNT = 0
